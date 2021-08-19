@@ -8,7 +8,7 @@ body {}
 .major-container {
   position: relative;
   background-color: hsl(225, 100%, 94%);
-  background-image: url('images/pattern-background-mobile.svg');
+  background-image: url('pattern-background-mobile.svg');
   background-repeat: no-repeat;
   width: 375px;
   height: 709px;
@@ -170,7 +170,7 @@ h2 {
   .major-container {
     width: 1440px;
     height: 900px;
-    background-image: url('images/pattern-background-desktop.svg');
+    background-image: url('pattern-background-desktop.svg');
     background-repeat: no-repeat;
   }
 
